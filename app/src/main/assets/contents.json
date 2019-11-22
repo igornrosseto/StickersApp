@@ -1,0 +1,62 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Menes",
+      "publisher": "Iguaim Dev",
+      "tray_image_file": "theo_tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"igornrx@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_4heed.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04_narga.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "06_theo.webp",
+          "emojis": ["😆","😂"]
+        }
+      ]
+    }, {
+      "identifier": "2",
+      "name": "DODS Clan",
+      "publisher": "Iguaim Dev",
+      "tray_image_file": "dods_tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"igornrx@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "02_dods.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_leomajado.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "05_pexe.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "07_xicao.webp",
+          "emojis": ["💔","👎"]
+        }
+      ]
+    }
+  ]
+}
